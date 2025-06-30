@@ -25,7 +25,6 @@ This repository contains a Jupyter notebook (**`Data_Analysis.ipynb`**) that wal
 * **Target column:** `stroke` (0 = no, 1 = had a stroke)
 * **Features:** age, gender, hypertension, heart disease, avg\_glucose\_level, BMI, work type, smoking\_status, *etc.*
 
-The raw CSV is **not committed** to the repo to keep it lightweight. Place it in the project root before running the notebook.
 
 ---
 
